@@ -1,4 +1,4 @@
-These are some links that could be interesting to introduce Python programming language:
+There are some links that could be interesting to introduce Python programming language:
 
 Tutorial about while loops statements (at the same webpage there are others tutorials)
 www.tutorialspoint.com/python/python_while_loop.htm
